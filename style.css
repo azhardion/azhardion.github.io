@@ -1,0 +1,27 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #83b9a7ac;
+}
+
+img.fotoku{
+    width: 200px;
+    align-self: center;
+}
+
+#skills{
+    background-color: #83b9a7ac;
+}
+
+.card-img-top{
+    margin: auto;
+    padding: 15px;
+}
+
+section{
+    padding-top: 5rem;
+}
+
